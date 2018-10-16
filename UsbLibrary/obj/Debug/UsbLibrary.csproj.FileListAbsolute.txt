@@ -1,0 +1,7 @@
+C:\Users\yangweitao\Desktop\usb hid\UsbLibrary\bin\Debug\UsbLibrary.XML
+C:\Users\yangweitao\Desktop\usb hid\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\yangweitao\Desktop\usb hid\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\yangweitao\Desktop\usb hid\UsbLibrary\obj\Debug\UsbLibrary.csproj.CoreCompileInputs.cache
+C:\Users\yangweitao\Desktop\usb hid\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\yangweitao\Desktop\usb hid\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\yangweitao\Desktop\usb hid\UsbLibrary\obj\Debug\UsbLibrary.csprojAssemblyReference.cache

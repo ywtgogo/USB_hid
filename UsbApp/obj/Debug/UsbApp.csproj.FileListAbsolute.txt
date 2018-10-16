@@ -1,0 +1,13 @@
+C:\Users\yangweitao\Desktop\usb hid\UsbApp\bin\Debug\UsbApp.exe
+C:\Users\yangweitao\Desktop\usb hid\UsbApp\bin\Debug\UsbApp.pdb
+C:\Users\yangweitao\Desktop\usb hid\UsbApp\bin\Debug\UsbLibrary.dll
+C:\Users\yangweitao\Desktop\usb hid\UsbApp\bin\Debug\UsbLibrary.pdb
+C:\Users\yangweitao\Desktop\usb hid\UsbApp\bin\Debug\UsbLibrary.xml
+C:\Users\yangweitao\Desktop\usb hid\UsbApp\obj\Debug\UsbApp.csprojAssemblyReference.cache
+C:\Users\yangweitao\Desktop\usb hid\UsbApp\obj\Debug\UsbApp.Properties.Resources.resources
+C:\Users\yangweitao\Desktop\usb hid\UsbApp\obj\Debug\UsbApp.Sniffer.resources
+C:\Users\yangweitao\Desktop\usb hid\UsbApp\obj\Debug\UsbApp.csproj.GenerateResource.cache
+C:\Users\yangweitao\Desktop\usb hid\UsbApp\obj\Debug\UsbApp.csproj.CoreCompileInputs.cache
+C:\Users\yangweitao\Desktop\usb hid\UsbApp\obj\Debug\UsbApp.csproj.CopyComplete
+C:\Users\yangweitao\Desktop\usb hid\UsbApp\obj\Debug\UsbApp.exe
+C:\Users\yangweitao\Desktop\usb hid\UsbApp\obj\Debug\UsbApp.pdb
